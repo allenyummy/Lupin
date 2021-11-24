@@ -1,0 +1,7 @@
+pytest==6.2.3
+pytest-mock==3.5.1
+pytest-cov==2.11.1
+pre-commit==2.13
+flake8==3.9.2
+black==21.6b0
+isort==5.8.0

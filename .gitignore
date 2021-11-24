@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+bin/
+lib/
+.Python
+pyvenv.cfg
+payproglobal/
+webdriver/*/*driver
+img/
+usr/
+.env
